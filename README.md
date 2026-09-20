@@ -39,19 +39,11 @@
 
 | Dashboard | Work Calendar (Jalali / Hijri) |
 |:---:|:---:|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Work Calendar](docs/screenshots/calendar.png) |
+| ![Dashboard](dashboard.png) | ![Work Calendar](calendar.png) |
 
 | Property Form | Filtered Property List |
 |:---:|:---:|
-| ![Property Form](docs/screenshots/property-form.png) | ![Property List](docs/screenshots/property-list.png) |
-
-**Recorded walkthrough of the live application:**
-
-![App Demo](docs/screenshots/demo.gif)
-
-</div>
-
-> *Replace the placeholders above with real screenshots and a screen recording from the running application, placed under `docs/screenshots/`.*
+| ![Property Form](property-form.png) | ![Property List](property-list.png) |
 
 <br>
 
