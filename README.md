@@ -9,7 +9,7 @@
 [![PySide6](https://img.shields.io/badge/PySide6-Qt%206-41CD52?style=flat-square&logo=qt&logoColor=white)](https://doc.qt.io/qtforpython/)
 [![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20Desktop-0078D6?style=flat-square&logo=windows&logoColor=white)](#)
-[![Status](https://img.shields.io/badge/Status-In%20Production-2E7D32?style=flat-square)](#)
+[![Status](https://img.shields.io/badge/Status-Completed-2E7D32?style=flat-square)](#)
 [![Repo](https://img.shields.io/badge/Repository-Portfolio%20Showcase-6E6E6E?style=flat-square)](#)
 
 </div>
