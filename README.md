@@ -239,3 +239,18 @@ I'm open to discussing this project in more depth, or hearing feedback — feel 
 If this project was useful as a reference, a star on the repository is appreciated.
 
 </div>
+<p align="center">
+  <b>Arian Shayestehfard</b>
+  <br>
+  Computer Engineering Student
+  <br><br>
+  <a href="https://github.com/ArianShayestehfard">
+    <img src="https://img.shields.io/badge/GitHub-ArianShayestehfard-181717?logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+## 📄 License
+
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+
+---
