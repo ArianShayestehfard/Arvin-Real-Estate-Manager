@@ -249,8 +249,3 @@ If this project was useful as a reference, a star on the repository is appreciat
   </a>
 </p>
 
-## 📄 License
-
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
-
----
