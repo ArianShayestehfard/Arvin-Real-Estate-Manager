@@ -14,6 +14,7 @@
 
 </div>
 
+
 <br>
 
 > **Note on this repository.** Arvin is a commercial, closed-source product built for a real estate agency. For confidentiality reasons, the source code is not published here. This repository instead documents the system's architecture, engineering decisions, and real screenshots/recordings from production use — as a portfolio reference of my work as its sole developer.
